@@ -12,7 +12,7 @@
 PIN_A_O rise --> PIN_B_I high --> 
 PIN_B_O rise --> PIN_A_I high --> 
 PIN_A_O fall  -->
-*/
+*/ 
 
 #define CNT_MAX 1000*100
 uint32_t cnt;
